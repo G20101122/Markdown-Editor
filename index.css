@@ -1,0 +1,11 @@
+.code {
+    font-family: monospace;
+}
+
+.vertical-spliter {
+    padding: 0;
+}
+
+.fixed-textarea {
+    resize: none;
+}

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256">
+    <circle cx="128" cy="128" r="124" stroke="white" stroke-width="8" />
+    <text x="50" y="220" font-family="Noto Sans Mono" fill="white" font-size="256">
+        M
+    </text>
+</svg>
